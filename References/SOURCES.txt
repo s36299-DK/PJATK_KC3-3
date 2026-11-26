@@ -1,0 +1,54 @@
+Exteriors:
+01_Procida_Marina_Corricella.jpg | Velvet | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Procida_Marina_Corricella.jpg
+02_Tuscany_farmhouse_on_hill.jpg | Enrico Pighetti | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:San_Quirico_d%27Orcia_-_typical_farmhouse_on_hill_in_autumn.jpg
+03_Positano_hillside_houses.jpg | VV Nincic from Toronto, Canada | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Positano,_Amalfi_Coast,_Italy_(22286060906).jpg
+04_Manarola_houses_terraces.jpg | Vald0506 | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Small_houses_in_Manarola,_Cinque_Terre,_Italy.jpg
+05_Manarola_houses_street.jpg | Vald0506 | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Houses_in_Manarola,_Cinque_Terre,_Italy.jpg
+06_Raggiolo_stone_house.jpg | Terragio67 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Single_house_on_the_top_of_the_Raggiolo_Village.jpg
+07_Corniglia_village_cliff.jpg | pcdazero | CC0 | https://commons.wikimedia.org/wiki/File:Corniglia_(Houses,Mountain,Sea).jpg
+08_Arezzo_stone_farmhouse.jpg | Boyd Carpenter | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Villa-near-Arezzo.jpg
+09_Lucca_hillside_houses.jpg | s9-4pr | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Gugliano,_Lucca_(48781520458).jpg
+
+Walls:
+01_Stone_wall_arched_door_Vertine.jpg | Eric Kilby | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Old_Stone_Alleyway_and_Building_-_Village_of_Vertine_in_Gaiole.jpg
+02_Brick_walls_Montepulciano.jpg | MacPhoto | CC0 | https://commons.wikimedia.org/wiki/File:Bricks_wall_houses_Montepulciano_(Italy).jpg
+
+Roofs:
+01_Citta_della_Pieve_roofs.jpg | Wolfgang Sauber | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Citt%C3%A1_della_Pieve_-_D%C3%A4cher.jpg
+02_Coppi_tiles_brick_lattice.jpg | Eric Kilby | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Bricks_and_Tiles.jpg
+03_Chimneys_terracotta_roof.jpg | Eric Kilby | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Old_Chimneys1.jpg
+04_Terracotta_roof_with_cactus_Calcata.jpg | Karina Comanescu | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Calcata,_Valle_del_Treja.jpg
+05_Feltre_roofs_chimneys.jpg | Hellerhoff | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Feltre_-_Hausdaecher.jpg
+
+Windows:
+01_Shutters_with_flowers_Crespi_dAdda.jpg | Daniel Case | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Window_with_flowers_and_shutters,_Crespi_d%27Adda.jpg
+02_Wooden_shutter_brick_wall_Assisi.jpg | Timothy A. Gonsalves | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Window_Shutter_Assisi_Umbria_Italy_Sep23_A7C_07467.jpg
+03_Blue_louvered_shutters_Urbino.jpg | Julian Lupyan | CC0 | https://commons.wikimedia.org/wiki/File:Blue_Louvered_Window_in_Urbino,_Italy.jpg
+04_Arched_shutters_Lucca.jpg | Викидим | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Exterior_shutters_in_Lucca.jpg
+05_Shutters_flower_boxes_Urbino.jpg | Tuscanycalling | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Finestra_con_fiori_a_Urbino.jpg
+06_Shutters_stone_frame_Milan.jpg | MATTEO BECHINI | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Old_windows_in_Milan.jpg
+
+Doors:
+01_Old_green_door_Corniglia.jpg | Jocelyn Erskine-Kellie | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Old_Green_Door_-_Corniglia,_Vernazza.jpg
+02_Old_wooden_door_Rome.jpg | User:Mattes | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Old_wooden_door_in_Rome,_Italy.jpg
+03_Arched_door_stone_portal_Arezzo.jpg | Eric Kilby | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Old_Door_in_the_Arezzo.jpg
+04_Door_stone_wall_Esino.jpg | Shyamal | CC0 | https://commons.wikimedia.org/wiki/File:Door_Esino_Italy.jpg
+05_Arched_wooden_door_Scanno.jpg | Paul Harrison | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Scanno_Italy_Door_1.jpg
+06_Weathered_blue_door.jpg | Bogdan Dada bogs | CC0 | https://commons.wikimedia.org/wiki/File:Italy_(Unsplash_VX9v2sxbiwc).jpg
+07_Door_with_roses_stone_house.jpg | Eric Kilby | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Village_of_Vertine_in_Gaiole.jpg
+
+Balconies:
+01_Stone_balcony_arched_window.jpg | Anna Saini | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Ischia,_Forio,_Italien.jpg
+02_Ligurian_facade_balustrade_balconies.jpg | Irene Grassi from Italy | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Balconi_italiani_(27077627814).jpg
+03_Blue_door_iron_balcony_Otranto.jpg | Bernard Gagnon | CC0 | https://commons.wikimedia.org/wiki/File:Balcony_in_Otranto.jpg
+04_Amalfi_balconies.jpg | Jorge Royan | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Amalfi_-_7377.jpg
+
+Stairs:
+01_Positano_steps_greenery.jpg | cowbridgeguide.co.uk | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:84017_Positano,_Province_of_Salerno,_Italy_-_panoramio.jpg
+02_Positano_stairway_sea_view.jpg | VV Nincic from Toronto, Canada | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Going_down_(41659171165).jpg
+
+Details:
+01_Eaves_plaster_and_tiles.jpg | Tulumnes | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Nidi_di_rondini_sottotetto.JPG
+
+Materials:
+01_Pebble_brick_wall_texture.jpg | Rino Porrovecchio from Palermo, Italy | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Cromatismi_murari-33_(3315139947).jpg
