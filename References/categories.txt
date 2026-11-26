@@ -1,0 +1,14 @@
+Mediterranean Italian house - reference images
+Repository folder: References/ (branch LukaszPochwatko_s35840)
+
+Exteriors: 9
+Walls:     2
+Roofs:     5
+Windows:   6
+Doors:     7
+Balconies: 4
+Stairs:    2
+Details:   1
+Materials: 1
+
+Total:     37
