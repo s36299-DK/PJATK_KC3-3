@@ -1,0 +1,26 @@
+WORK DIVISION — Mediterranean Italian House (KC3-3)
+Grid 2.5 m x 2.5 m. Each member: 7 modules.
+
+DAVYD KULIKOV (s36299) — facade wall family + entrance:
+  01 Wall — Plain (facade panel)
+  02 Wall — Window + Shutters
+  03 Wall — Window + Flower Box
+  04 Wall — Arched Window
+  05 Wall — Corner
+  06 Door — Arched Stone Portal
+  14 Rooftop — Terrace
+
+LUKASZ POCHWATKO — roof, openings, streetscape:
+  07 Roof — Gable End Wall
+  08 Roof — Tile Slope
+  09 Roof — Chimney
+  10 Balcony — Iron Railing
+  11 Stairs — Flight + Parapet
+  12 Wall — Low Boundary
+  13 Props — Urn + Plants
+
+Notes:
+- Shared material set (stucco x4, terracotta, stone, painted wood x3, iron, glass) — set up once,
+  owner of module 01 (D.) prepares stucco/wood/glass, owner of module 08 (L.) prepares terracotta/stone/iron.
+- Blockout first (all 14, gray boxes, grid check), then detail pass.
+- After blockouts: screenshots into refboard.drawio per module, export boards to this folder.
