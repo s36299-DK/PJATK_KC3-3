@@ -52,8 +52,8 @@ Blender: set snap increment to 0.05 m (grid scale 0.25 in the viewport corner fo
 
 ## 4. Per-module reference boards
 Each folder `Mxx_<name>/` contains:
-- `refboard.drawio` — reference board (open in https://app.diagrams.net, free; add the blockout screenshot into the dashed box, then File > Export as > PNG/PDF and save next to it)
-- `description.md` — module description, dimensions, materials, what to model from each reference
+- `refboard.drawio` — reference board (open in https://app.diagrams.net, free; add the blockout screenshot into the dashed box, then File > Export as > PNG/PDF and save next to it) + `refboard.jpg` — rendered preview, viewable directly on GitHub
+- `description.txt` — module description, dimensions, materials, what to model from each reference
 Red circles on the reference images mark the elements that will be modeled.
 
 ## 5. Work division (equal workload, 7 modules each)
